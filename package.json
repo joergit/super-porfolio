@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive porfolio website",
   "main": "index.js",
-  "homepage": "https://joergit.github.io/modern_porfolio",
+  "homepage": "https://joergit.github.io/super-porfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.9.4"
